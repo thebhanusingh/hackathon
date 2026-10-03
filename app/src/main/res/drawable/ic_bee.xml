@@ -1,0 +1,7 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <!-- Notification icon: a simple bee silhouette (white, the system tints it). -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M9,4.5a3,4.5 0,1 1,0.01 0z M15,4.5a3,4.5 0,1 1,0.01 0z M12,8c3.9,0 7,2.7 7,6s-3.1,6 -7,6 -7,-2.7 -7,-6 3.1,-6 7,-6z" />
+</vector>

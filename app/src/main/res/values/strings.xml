@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bee Calm</string>
+    <string name="notification_channel">Grounding session</string>
+    <string name="notification_title">Bee Calm is with you</string>
+    <string name="notification_body">Grounding with your glasses</string>
+    <string name="stop">Stop</string>
+</resources>
