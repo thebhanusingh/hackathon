@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Wings -->
+    <path android:fillColor="#BFC8E6FF" android:pathData="M44,30a9,14 0,1 0,0.01 0z" />
+    <path android:fillColor="#BFC8E6FF" android:pathData="M64,30a9,14 0,1 0,0.01 0z" />
+    <!-- Body -->
+    <path android:fillColor="#FFFFC93C" android:pathData="M54,40c13,0 22,7 22,16s-9,16 -22,16 -22,-7 -22,-16 9,-16 22,-16z" />
+    <!-- Stripes -->
+    <path android:fillColor="#FF3A2A10" android:pathData="M45,41.5h6v29h-6z M57,41.5h6v29h-6z" />
+    <!-- Eye -->
+    <path android:fillColor="#FFFFFFFF" android:pathData="M68,52a4,4 0,1 0,0.01 0z" />
+</vector>
